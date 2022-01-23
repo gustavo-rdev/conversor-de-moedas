@@ -1,2 +1,2 @@
-# conversor-de-moedas
-Aplicativo conversor de moedas (Real, Dólar e Euro). Feito em Flutter
+# Currency conversor
+Currency conversor app (Real, Dollar and Euro). Made in flutter, a cross-platform framework.
